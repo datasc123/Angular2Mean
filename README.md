@@ -1,15 +1,16 @@
 # Angular 2 Mean.js full Stack project
 
-The front-end of this project was generated with [Angular CLI](https://github.com/angular/angular-cli).
+The front-end of this project is generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
-* [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
-* [**E**xpress.js](http://expressjs.com): backend framework
-* [**A**ngular 2](https://angular.io): frontend framework
-* [**N**ode.js](https://nodejs.org): runtime environment
-* [Angular CLI](https://cli.angular.io): project scaffolding
-* [Bootstrap](http://www.getbootstrap.com): layout and styles
+* [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): NoSQL Database
+* [**E**xpress.js](http://expressjs.com): Backend Framework
+* [**A**ngular 2](https://angular.io): Frontend Framework
+* [**N**ode.js](https://nodejs.org): Runtime Rnvironment
+* [Angular CLI](https://cli.angular.io): Project Scaffolding
+* [Bootstrap](http://www.getbootstrap.com): Layout and Styling
 * [Font Awesome](http://fontawesome.io): icons
+* [IntelliJ IDE](http://www.jetbrains.com/idea/): IDE for development
 
 ## Prerequisites
 1. Install [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com)
